@@ -12,6 +12,15 @@
 html {
   scroll-behavior: smooth;
 }
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  background: black;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+}
 body {
   font-family: "Open Sans", sans-serif;
   background: #fff;

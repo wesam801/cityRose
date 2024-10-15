@@ -137,6 +137,8 @@ header nav ul li a:hover {
   height: 100%;
   width: 100%;
   transition: all 0.3s;
+  object-fit: fill;
+  object-position: center;
 }
 .content .box .div-text {
   position: absolute;
@@ -145,13 +147,26 @@ header nav ul li a:hover {
   padding: 5px;
   bottom: 0;
   width: 100%;
-  font-size: 1rem;
+  font-size: 0.8rem;
+  h2 {
+    font-size: 1.4rem;
+  }
   left: 0;
   text-align: center;
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    span {
+      background: green;
+      padding: 6px;
+      border-radius: 5px;
+    }
+  }
 }
-.content .box:hover img {
+/* .content .box:hover ~ .images img {
   transform: scale(1.1);
-}
+} */
 .modal-dialog {
   max-width: 80% !important;
   width: 80% !important;
