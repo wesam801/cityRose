@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar" dir="rtl">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -81,13 +81,57 @@
     <!-- start footer  -->
     <footer class="footer">
       <p>
-        <span><a href="#">wesam shaker</a></span>
-        بواسطة
-        <span><a href="#">CITY ROSE</a></span>
         كل الحقوق محفوظة لصالح مطعم
+        <span><a href="#">CITY ROSE</a></span>
+        بواسطة
+        <span><a href="#">wesam shaker</a></span>
       </p>
     </footer>
     <!-- end footer  -->
+    <div class="button-top" id="button-top" onclick="scrollToTop()">
+      <span>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          fill="currentColor"
+          class="bi bi-arrow-up-circle"
+          viewBox="0 0 16 16"
+        >
+          <path
+            fill-rule="evenodd"
+            d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8m15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707z"
+          />
+        </svg>
+      </span>
+    </div>
+    <div class="loading" id="loading">
+      <h2>يتم تحميل الصفحة الرجاء الانتظار</h2>
+    </div>
+    <script>
+      window.onscroll = function () {
+        var button = document.getElementById("button-top");
+
+        if (
+          document.body.scrollTop <= 70 &&
+          document.documentElement.scrollTop <= 70
+        ) {
+          button.style.display = "none";
+        } else {
+          button.style.display = "block";
+        }
+      };
+      function scrollToTop() {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth",
+        });
+      }
+      window.onload = function () {
+        const loading = document.getElementById("loading");
+        loading.style.display = "none";
+      };
+    </script>
     <script>
       fetch("dist/json/products.json")
         .then((response) => response.json())
