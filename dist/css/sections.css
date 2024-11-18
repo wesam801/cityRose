@@ -106,19 +106,19 @@ header nav ul li a:hover {
     height: 70vh;
   }
   .intro .text {
-    /* display: none; */
+    display: none;
   }
 }
 /* start content  */
 .content {
   padding: 40px 0;
 }
-.content .container {
+.container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }
 
-.content .box {
+.box {
   background-color: rgb(255, 255, 255);
   box-shadow: rgba(0, 0, 0, 0.13) 0px 12px 20px 0px,
     rgba(0, 0, 0, 0.12) 0px 2px 4px 0px;
@@ -133,28 +133,40 @@ header nav ul li a:hover {
   border-radius: 5px;
   overflow: hidden;
 }
-.content .box .images {
+.box .images {
   width: 100%;
   height: 100%;
 }
-.content .box img {
+.box img {
   display: block;
   height: 100%;
   width: 100%;
   transition: all 0.3s;
 }
-.content .box .div-text {
+.box .div-text {
   position: absolute;
   background: #333;
   color: #fff;
   padding: 5px;
   bottom: 0;
   width: 100%;
-  font-size: 1rem;
   left: 0;
   text-align: center;
 }
-.content .box:hover img {
+.box .div-text h2 {
+  font-size: 1.4rem;
+}
+.boxs .div-text {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.boxs .div-text .price {
+  background: green;
+  padding: 3px;
+  border-radius: 5px;
+}
+.box:hover img {
   transform: scale(1.1);
 }
 .modal-dialog {
@@ -164,13 +176,17 @@ header nav ul li a:hover {
   margin: 50px auto !important;
 }
 @media (max-width: 700px) {
-  .content .container {
+  .container {
     display: block !important;
   }
-  .content .box {
-    width: 90% !important;
+  .box {
+    width: 100% !important;
     margin: 10px auto !important;
     height: 275px;
+  }
+  .modal-body {
+    flex: 0 !important;
+    padding: 0 !important;
   }
 }
 /* start footer  */
