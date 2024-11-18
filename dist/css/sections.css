@@ -223,7 +223,7 @@ header nav ul li a:hover {
 }
 .loading {
   background: #333;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
