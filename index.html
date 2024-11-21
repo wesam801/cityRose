@@ -139,7 +139,6 @@
           displaySections(data.sections);
         })
         .catch((error) => console.error("Error loading the JSON:", error));
-
       function displaySections(sections) {
         const sectionsContainer = document.getElementById("boxs");
         sections.forEach((section) => {
@@ -147,15 +146,15 @@
           const sectionElement = document.createElement("div");
           sectionElement.classList.add("box");
           sectionElement.innerHTML = `
-              <div class="images">
-                <img src="${section.imgS}" alt="" />
-              </div>
-              <div class="div-text">
-                <h2 type="button" data-bs-toggle="modal" data-bs-target="#exampleModal-${section.id}">
-                  ${section.name}
-                </h2>
-              </div>
-            `;
+        <div class="images">
+          <img src="${section.imgS}" alt="" />
+        </div>
+        <div class="div-text">
+          <h2 type="button" data-bs-toggle="modal" data-bs-target="#exampleModal-${section.id}">
+            ${section.name}
+          </h2>
+        </div>
+      `;
           sectionsContainer.appendChild(sectionElement);
 
           // إنشاء المودال الخاص بالقسم
@@ -170,45 +169,53 @@
           modalElement.setAttribute("aria-hidden", "true");
 
           modalElement.innerHTML = `
-              <div class="modal-dialog">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="modal-title fs-5 fw-normal" id="exampleModalLabel-${
-                      section.id
-                    }">
-                      ${section.name}
-                    </h1>
-                  </div>
-                  <div class="modal-body">
-                    <div class="container" id="modal-products-${section.id}">
-                       ${section.products
-                         .map(
-                           (product) => `
-                      <div class="box boxs">
-                        <div class="images">
-                          <img src="${product.image}" alt="${product.name}" />
-                        </div>
-                        <div class="div-text">
-                          <h2>${product.name}</h2>
-                          <span class="price">${product.price}<span>$</span></span>
-                        </div>
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5 fw-normal" id="exampleModalLabel-${
+                section.id
+              }">
+                ${section.name}
+              </h1>
+            </div>
+            <div class="modal-body">
+              <div class="container" id="modal-products-${section.id}">
+                 ${section.products
+                   .map(
+                     (product) => `
+                    <div class="box boxs">
+                      <div class="images">
+                        <img src="${product.image}" alt="${product.name}" />
                       </div>
-                    `
-                         )
-                         .join("")}
+                      <div class="div-text">
+                        <h2>${product.name}</h2>
+                        <span class="price">${
+                          product.price
+                        }<span>$</span></span>
+                        ${
+                          section.name === "قسم البيتزا"
+                            ? `
+                            <span>وسط</span>
+                            <span class="price">${product.price2}<span>$</span></span>`
+                            : ""
+                        }
+                      </div>
                     </div>
-                  </div>
-                  <div class="modal-footer">
-                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal">اغلاق</button>
-                  </div>
-                </div>
+                  `
+                   )
+                   .join("")}
               </div>
-            `;
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-bs-dismiss="modal">اغلاق</button>
+            </div>
+          </div>
+        </div>
+      `;
           document.body.appendChild(modalElement);
         });
       }
     </script>
-
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
