@@ -50,62 +50,62 @@
         {
           "name": "بيتزا مكسكانو",
           "image": "./dist/images/2.webp",
-          "price": "10",
-          "price2": "5"
+          "price": "3.75",
+          "price2": "3.25"
         },
         {
           "name": "بيتزا مارغريتا",
           "image": "./dist/images/5.png",
-          "price": "10",
-          "price2": "5"
+          "price": "3.5",
+          "price2": "3"
         },
         {
           "name": "بيتزا محشية الاطراف",
           "image": "./dist/images/4.jpg",
-          "price": "10",
-          "price2": "5"
+          "price": "4.5",
+          "price2": "3.75"
         },
         {
           "name": "بيتزا فطر وذرة",
           "image": "./dist/images/5.png",
-          "price": "10",
-          "price2": "5"
+          "price": "3.5",
+          "price2": "3"
         },
         {
           "name": "بيتزا سجق",
           "image": "./dist/images/7.jpg",
-          "price": "10",
-          "price2": "5"
+          "price": "3.75",
+          "price2": "3.25"
         },
         {
           "name": "بيتزا دجاج بالكاري",
           "image": "./dist/images/8.webp",
-          "price": "10",
-          "price2": "5"
+          "price": "3.75",
+          "price2": "3.25"
         },
         {
           "name": "بيتزا خضار",
           "image": "./dist/images/9.jpg",
-          "price": "10",
-          "price2": "5"
+          "price": "3.25",
+          "price2": "2.75"
         },
         {
           "name": "بيتزا لحومات مشكلة",
           "image": "./dist/images/11.jpeg",
-          "price": "10",
-          "price2": "5"
+          "price": "3.75",
+          "price2": "3.25"
         },
         {
           "name": "بيتزا الفصول الاربعة",
           "image": "./dist/images/7.jpg",
-          "price": "10",
-          "price2": "5"
+          "price": "3.75",
+          "price2": "3.25"
         },
         {
           "name": "بيتزا بيروني",
           "image": "./dist/images/11.jpeg",
-          "price": "10",
-          "price2": "5"
+          "price": "3.5",
+          "price2": "3"
         }
       ]
     },
