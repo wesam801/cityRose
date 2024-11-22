@@ -117,92 +117,92 @@
         {
           "name": "وجبة زنجر",
           "image": "./dist/images/1.jpeg",
-          "price": "10"
+          "price": "3"
         },
         {
           "name": "وجبة سبايسي",
           "image": "./dist/images/10.jpg",
-          "price": "10"
+          "price": "3"
         },
         {
           "name": "وجبة كريسبي",
           "image": "./dist/images/15.jpg",
-          "price": "10"
+          "price": "3"
         },
         {
           "name": "وجبة اسكالوب",
           "image": "./dist/images/1.jpeg",
-          "price": "10"
+          "price": "3.4"
         },
         {
           "name": "وجبة غواصة",
           "image": "./dist/images/logo.png",
-          "price": "10"
+          "price": "3.6"
         },
         {
           "name": "وجبة ناغيت",
           "image": "./dist/images/g.jpg",
-          "price": "10"
+          "price": "3"
         },
         {
           "name": "وجبة الشيف",
           "image": "./dist/images/logo.png",
-          "price": "10"
+          "price": "3.6"
         },
         {
           "name": "وجبة فاهيتا",
           "image": "./dist/images/4.jpg",
-          "price": "10"
+          "price": "3.6"
         },
         {
           "name": "وجبة مكسيكانو",
           "image": "./dist/images/6.jpeg",
-          "price": "10"
+          "price": "3.2"
         },
         {
           "name": "وجبة تندوري دجاج",
           "image": "./dist/images/12.jpg",
-          "price": "10"
+          "price": "3.4"
         },
         {
           "name": "وجبة دجاج ترياكي",
           "image": "./dist/images/20.jpg",
-          "price": "10"
+          "price": "3.6"
         },
         {
           "name": "وجبة بيكاتا",
           "image": "./dist/images/f.jpg",
-          "price": "10"
+          "price": "3.6"
         },
         {
           "name": "وجبة منشوريان دجاج",
           "image": "./dist/images/7.jpeg",
-          "price": "10"
+          "price": "3.6"
         },
         {
           "name": "وجبة ستروغانوف",
           "image": "./dist/images/r.jpg",
-          "price": "10"
+          "price": "3.6"
         },
         {
           "name": "وجبة كوردون بلو",
           "image": "./dist/images/5.jpg",
-          "price": "10"
+          "price": "3.8"
         },
         {
           "name": "وجبة اصابع دجاج",
           "image": "./dist/images/21.jpg",
-          "price": "10"
+          "price": "3.6"
         },
         {
           "name": "وجبة اسكالوب ميلانيز",
           "image": "./dist/images/u.jpeg",
-          "price": "10"
+          "price": "3.4"
         },
         {
           "name": "وجبة شرحات مضفاية بالحمض",
           "image": "./dist/images/f.jpg",
-          "price": "10"
+          "price": "3.3"
         }
       ]
     },
@@ -214,22 +214,22 @@
         {
           "name": "وجبة بروستد نصف فروج",
           "image": "./dist/images/14.jpg",
-          "price": "10"
+          "price": "3.8"
         },
         {
           "name": "وجبة بروستد فروج كامل",
           "image": "./dist/images/14.jpg",
-          "price": "10"
+          "price": "7.25"
         },
         {
           "name": "وجبة بروستد جوانح",
           "image": "./dist/images/14.jpg",
-          "price": "10"
+          "price": "2.5"
         },
         {
           "name": "وجبة بروستد دبوس",
           "image": "./dist/images/14.jpg",
-          "price": "10"
+          "price": "3"
         }
       ]
     },
@@ -241,7 +241,7 @@
         {
           "name": "وجبة فطور لشخص",
           "image": "./dist/images/55.jpeg",
-          "price": "10"
+          "price": "3"
         }
       ]
     },
@@ -253,67 +253,67 @@
         {
           "name": "مناقيش فليفلة",
           "image": "./dist/images/25.jpg",
-          "price": "10"
+          "price": "0.25"
         },
         {
           "name": "مناقيش زعتر",
           "image": "./dist/images/22.webp",
-          "price": "10"
+          "price": "0.25"
         },
         {
           "name": "مناقيش جبنة",
           "image": "./dist/images/24.jpg",
-          "price": "10"
+          "price": "0.33"
         },
         {
           "name": "مناقيش جبنة وفليفلة",
           "image": "./dist/images/26.jpg",
-          "price": "10"
+          "price": "0.33"
         },
         {
           "name": "مناقيش بيتزا",
           "image": "./dist/images/27.jpg",
-          "price": "10"
+          "price": "0.33"
         },
         {
           "name": "مناقيش كردية",
           "image": "./dist/images/logo.png",
-          "price": "10"
+          "price": "0.33"
         },
         {
           "name": "فطائر سنفورة",
           "image": "./dist/images/23.jpg",
-          "price": "10"
+          "price": "0.25"
         },
         {
           "name": "فطائر سجق",
           "image": "./dist/images/28.webp",
-          "price": "10"
+          "price": "0.33"
         },
         {
           "name": "فطائر جبنة قشقوان",
           "image": "./dist/images/29.webp",
-          "price": "10"
+          "price": "0.33"
         },
         {
           "name": "فطائر برك جبنة",
           "image": "./dist/images/30.webp",
-          "price": "10"
+          "price": "0.25"
         },
         {
           "name": "فطائر مكسكانو",
           "image": "./dist/images/34.jfif",
-          "price": "10"
+          "price": "0.5"
         },
         {
           "name": "فطائر شيش دجاج",
           "image": "./dist/images/34.jfif",
-          "price": "10"
+          "price": "0.5"
         },
         {
           "name": "فطائر طوشكا",
           "image": "./dist/images/00.webp",
-          "price": "10"
+          "price": "0.5"
         }
       ]
     },
@@ -325,32 +325,32 @@
         {
           "name": "كباب دجاج",
           "image": "./dist/images/66.jpg",
-          "price": "10"
+          "price": "6"
         },
         {
           "name": "شرحات دجاج",
           "image": "./dist/images/61.jpg",
-          "price": "12"
+          "price": "7"
         },
         {
           "name": "جناح دجاج",
           "image": "./dist/images/62.webp",
-          "price": "8"
+          "price": "4.5"
         },
         {
           "name": "دجاج مشوي على الفحم",
           "image": "./dist/images/63.jpg",
-          "price": "15"
+          "price": "6.5"
         },
         {
           "name": "شيش دجاج",
           "image": "./dist/images/64.jpg",
-          "price": "12"
+          "price": "7"
         },
         {
           "name": "مارينا دجاج",
           "image": "./dist/images/65.jpg",
-          "price": "14"
+          "price": "1.5"
         }
       ]
     },
