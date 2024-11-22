@@ -362,47 +362,47 @@
         {
           "name": "شقف غنم",
           "image": "./dist/images/121.jfif",
-          "price": "20"
+          "price": "19"
         },
         {
           "name": "كباب غنم",
           "image": "./dist/images/123.jfif",
-          "price": "22"
+          "price": "18.5"
         },
         {
           "name": "كباب خشخاش",
           "image": "./dist/images/125.jfif",
-          "price": "18"
+          "price": "16"
         },
         {
           "name": "كباب باتنجان",
           "image": "./dist/images/13.webp",
-          "price": "17"
+          "price": "16"
         },
         {
           "name": "كباب ديري",
           "image": "./dist/images/122.jfif",
-          "price": "25"
+          "price": "16"
         },
         {
           "name": "كباب بالمكسرات",
           "image": "./dist/images/124.jfif",
-          "price": "28"
+          "price": "20"
         },
         {
           "name": "وجبة مارينا غنم",
           "image": "./dist/images/65.jpg",
-          "price": "30"
+          "price": "2.5"
         },
         {
           "name": "وجبة معجوقة غنم",
           "image": "./dist/images/111.jfif",
-          "price": "32"
+          "price": "4.75"
         },
         {
           "name": "وجبة طوشكا غنم",
           "image": "./dist/images/333.jpg",
-          "price": "35"
+          "price": "3.25"
         }
       ]
     },
