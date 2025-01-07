@@ -8,7 +8,7 @@
         {
           "name": "وجبة برغر دجاج",
           "image": "./dist/images/qq.png",
-          "price": "2.5"
+          "price": "2.8"
         },
         {
           "name": "برغر لحم",
@@ -18,7 +18,7 @@
         {
           "name": "برغر دجاج",
           "image": "./dist/images/2.jpg",
-          "price": "1.8"
+          "price": "2"
         },
         {
           "name": "وجبة برغر لحم",
@@ -28,12 +28,12 @@
         {
           "name": "تشيز تشيكن برغر",
           "image": "./dist/images/5.png!w700wp",
-          "price": "2.75"
+          "price": "3"
         },
         {
           "name": "وجبة تشيز برغر",
           "image": "./dist/images/1.webp",
-          "price": "3.5"
+          "price": "3.7"
         },
         {
           "name": "وجبة برغر مع الفطر والبصل",
@@ -117,17 +117,17 @@
         {
           "name": "وجبة زنجر",
           "image": "./dist/images/1.jpeg",
-          "price": "3.5"
+          "price": "3.8"
         },
         {
           "name": "وجبة سبايسي",
           "image": "./dist/images/10.jpg",
-          "price": "3.5"
+          "price": "3.8"
         },
         {
           "name": "وجبة كريسبي",
           "image": "./dist/images/15.jpg",
-          "price": "3"
+          "price": "3.8"
         },
         {
           "name": "وجبة اسكالوب",
@@ -137,72 +137,72 @@
         {
           "name": "وجبة غواصة",
           "image": "./dist/images/logo.png",
-          "price": "4"
+          "price": "4.3"
         },
         {
           "name": "وجبة ناغيت",
           "image": "./dist/images/g.jpg",
-          "price": "3.5"
+          "price": "4.3"
         },
         {
           "name": "وجبة الشيف",
           "image": "./dist/images/logo.png",
-          "price": "4"
+          "price": "4.3"
         },
         {
           "name": "وجبة فاهيتا",
           "image": "./dist/images/4.jpg",
-          "price": "4"
+          "price": "4.3"
         },
         {
           "name": "وجبة مكسيكانو",
           "image": "./dist/images/6.jpeg",
-          "price": "3.8"
+          "price": "4"
         },
         {
           "name": "وجبة تندوري دجاج",
           "image": "./dist/images/12.jpg",
-          "price": "3.8"
+          "price": "4"
         },
         {
           "name": "وجبة دجاج ترياكي",
           "image": "./dist/images/20.jpg",
-          "price": "4"
+          "price": "4.3"
         },
         {
           "name": "وجبة بيكاتا",
           "image": "./dist/images/f.jpg",
-          "price": "4"
+          "price": "4.3"
         },
         {
           "name": "وجبة منشوريان دجاج",
           "image": "./dist/images/7.jpeg",
-          "price": "4"
+          "price": "4.3"
         },
         {
           "name": "وجبة ستروغانوف",
           "image": "./dist/images/r.jpg",
-          "price": "4"
+          "price": "4.3"
         },
         {
           "name": "وجبة كوردون بلو",
           "image": "./dist/images/5.jpg",
-          "price": "4"
+          "price": "4.3"
         },
         {
           "name": "وجبة اصابع دجاج",
           "image": "./dist/images/21.jpg",
-          "price": "4"
+          "price": "4.5"
         },
         {
           "name": "وجبة اسكالوب ميلانيز",
           "image": "./dist/images/u.jpeg",
-          "price": "3.8"
+          "price": "4.3"
         },
         {
           "name": "وجبة شرحات مضفاية بالحمض",
           "image": "./dist/images/f.jpg",
-          "price": "3.8"
+          "price": "4"
         }
       ]
     },
@@ -214,22 +214,22 @@
         {
           "name": "وجبة بروستد نصف فروج",
           "image": "./dist/images/14.jpg",
-          "price": "3.8"
+          "price": "4"
         },
         {
           "name": "وجبة بروستد فروج كامل",
           "image": "./dist/images/14.jpg",
-          "price": "7"
+          "price": "7.5"
         },
         {
           "name": "وجبة بروستد جوانح",
           "image": "./dist/images/14.jpg",
-          "price": "3"
+          "price": "3.5"
         },
         {
           "name": "وجبة بروستد دبوس",
           "image": "./dist/images/14.jpg",
-          "price": "3"
+          "price": "3.5"
         }
       ]
     },
@@ -325,22 +325,22 @@
         {
           "name": "كباب دجاج",
           "image": "./dist/images/66.jpg",
-          "price": "7"
+          "price": "7.5"
         },
         {
           "name": "شرحات دجاج",
           "image": "./dist/images/61.jpg",
-          "price": "8"
+          "price": "8.5"
         },
         {
           "name": "جناح دجاج",
           "image": "./dist/images/62.webp",
-          "price": "5.5"
+          "price": "6"
         },
         {
           "name": "دجاج مشوي على الفحم",
           "image": "./dist/images/63.jpg",
-          "price": "7.5"
+          "price": "8"
         },
         {
           "name": "شيش دجاج",
@@ -350,7 +350,7 @@
         {
           "name": "مارينا دجاج",
           "image": "./dist/images/65.jpg",
-          "price": "1.5"
+          "price": "2"
         }
       ]
     },
@@ -532,17 +532,17 @@
         {
           "name": "منسف رز برياني مع فروج",
           "image": "./dist/images/manasef-f.jpeg",
-          "price": "8.5"
+          "price": "9.5"
         },
         {
           "name": "منسف فريكة مع فروج",
           "image": "./dist/images/manasef-f.jpeg",
-          "price": "9"
+          "price": "9.5"
         },
         {
           "name": "منسف رز كبسة مع فروج",
           "image": "./dist/images/manasef-f.jpeg",
-          "price": "9"
+          "price": "9.5"
         }
       ]
     },
@@ -747,7 +747,7 @@
         {
           "name": "وجبة فخد مع رز",
           "image": "data:image/jpeg;base64,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",
-          "price": "3"
+          "price": "3.5"
         },
         {
           "name": "دجاج مسحب مع رز",
