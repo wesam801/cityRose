@@ -273,7 +273,7 @@
         {
           "name": "مناقيش بيتزا",
           "image": "./dist/images/27.jpg",
-          "price": "0.5"
+          "price": "0.6"
         },
         {
           "name": "مناقيش كردية",
@@ -288,12 +288,12 @@
         {
           "name": "فطائر سجق",
           "image": "./dist/images/28.webp",
-          "price": "0.45"
+          "price": "0.6"
         },
         {
           "name": "فطائر جبنة قشقوان",
           "image": "./dist/images/29.webp",
-          "price": "0.5"
+          "price": "0.6"
         },
         {
           "name": "فطائر برك جبنة",
@@ -303,7 +303,7 @@
         {
           "name": "فطائر مكسكانو",
           "image": "./dist/images/34.jfif",
-          "price": "0.5"
+          "price": "0.6"
         },
         {
           "name": "فطائر شيش دجاج",
