@@ -253,52 +253,52 @@
         {
           "name": "مناقيش فليفلة",
           "image": "./dist/images/25.jpg",
-          "price": "0.25"
+          "price": "0.35"
         },
         {
           "name": "مناقيش زعتر",
           "image": "./dist/images/22.webp",
-          "price": "0.25"
+          "price": "0.35"
         },
         {
           "name": "مناقيش جبنة",
           "image": "./dist/images/24.jpg",
-          "price": "0.33"
+          "price": "0.45"
         },
         {
           "name": "مناقيش جبنة وفليفلة",
           "image": "./dist/images/26.jpg",
-          "price": "0.33"
+          "price": "0.45"
         },
         {
           "name": "مناقيش بيتزا",
           "image": "./dist/images/27.jpg",
-          "price": "0.33"
+          "price": "0.5"
         },
         {
           "name": "مناقيش كردية",
           "image": "./dist/images/logo.png",
-          "price": "0.33"
+          "price": "0.45"
         },
         {
           "name": "فطائر سنفورة",
           "image": "./dist/images/23.jpg",
-          "price": "0.25"
+          "price": "0.35"
         },
         {
           "name": "فطائر سجق",
           "image": "./dist/images/28.webp",
-          "price": "0.33"
+          "price": "0.45"
         },
         {
           "name": "فطائر جبنة قشقوان",
           "image": "./dist/images/29.webp",
-          "price": "0.33"
+          "price": "0.5"
         },
         {
           "name": "فطائر برك جبنة",
           "image": "./dist/images/30.webp",
-          "price": "0.25"
+          "price": "0.35"
         },
         {
           "name": "فطائر مكسكانو",
@@ -308,12 +308,12 @@
         {
           "name": "فطائر شيش دجاج",
           "image": "./dist/images/34.jfif",
-          "price": "0.5"
+          "price": "0.7"
         },
         {
           "name": "فطائر طوشكا",
           "image": "./dist/images/00.webp",
-          "price": "0.5"
+          "price": "0.7"
         }
       ]
     },
