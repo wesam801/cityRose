@@ -11,7 +11,7 @@
           "price": "3"
         },
         {
-          "name": "برغر لحم",
+          "name": " برغر لحم",
           "image": "./dist/images/3.webp",
           "price": "3.5"
         },
@@ -23,7 +23,7 @@
         {
           "name": "وجبة برغر لحم",
           "image": "./dist/images/0.jpg",
-          "price": "3.8"
+          "price": "4"
         },
         {
           "name": "تشيز تشيكن برغر",
@@ -38,7 +38,7 @@
         {
           "name": "وجبة برغر مع الفطر والبصل",
           "image": "./dist/images/brgr.jpg",
-          "price": "3.8"
+          "price": "4"
         }
       ]
     },
