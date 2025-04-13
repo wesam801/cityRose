@@ -436,12 +436,12 @@
         {
           "name": "وجبة شاورما بانيه",
           "image": "https://tse1.mm.bing.net/th?id=OIP.hx_GJ9Sr-T5EKTGB0yeKSwHaEH&pid=Api",
-          "price": "2.5"
+          "price": "4"
         },
         {
           "name": "وجبة شاورما شيف",
           "image": "https://tse3.mm.bing.net/th?id=OIP.3ACemO9Tm5mRNzig3VvMwwHaHa&pid=Api",
-          "price": "2.35"
+          "price": "4"
         },
         {
           "name": "وجبة شاورما اكسترا",
@@ -451,17 +451,17 @@
         {
           "name": "وجبة شاورما عربي",
           "image": "https://tse1.mm.bing.net/th?id=OIP.hx_GJ9Sr-T5EKTGB0yeKSwHaEH&pid=Api",
-          "price": "2.15"
+          "price": "4"
         },
         {
           "name": "وجبة شاورما مع رز",
           "image": "https://tse3.mm.bing.net/th?id=OIP.3ACemO9Tm5mRNzig3VvMwwHaHa&pid=Api",
-          "price": "3"
+          "price": "4"
         },
         {
           "name": "كغ شاورما 1",
           "image": "https://tse4.mm.bing.net/th?id=OIP.UoT61U1vTLICuLJl8oumSgHaHa&pid=Api",
-          "price": "8.5"
+          "price": "12"
         }
       ]
     },
