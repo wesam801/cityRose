@@ -226,11 +226,7 @@
           "image": "./dist/images/14.jpg",
           "price": "3.8"
         },
-        {
-          "name": "وجبة بروستد دبوس",
-          "image": "./dist/images/14.jpg",
-          "price": "3.8"
-        }
+        
       ]
     },
     {
