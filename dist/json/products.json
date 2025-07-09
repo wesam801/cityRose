@@ -559,12 +559,12 @@
         {
           "name": "منسف 2 كغ لحمة غنم",
           "image": "./dist/images/manasef-g.jpeg",
-          "price": "34"
+          "price": "35.5"
         },
         {
           "name": "منسف 1 و نصف كغ لحمة غنم",
           "image": "./dist/images/manasef-g.jpeg",
-          "price": "29"
+          "price": "30"
         }
       ]
     },
